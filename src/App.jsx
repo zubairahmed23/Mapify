@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <h1 className="mapify-header">Mapify</h1>
+      <h1 className="mapify-header">Mapify by Zubair</h1>
       <hr></hr>
       <h3 className='latitude'>Latitude: {latitude}</h3>
       <h3 className='longitude'>Longitude: {longitude}</h3>
